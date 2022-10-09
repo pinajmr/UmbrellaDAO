@@ -11,8 +11,8 @@
         Providing disenfranchised builders and social entrepreneurs access to web3 grant funding for public goods.
     <br/>
     <a href="https://github.com/pinajmr/UmbrellaDAO"><strong> Explore the docs » </strong></a>
-    <a href="https://polygonscan.com/address/0xC713d459f81C7C5fcB67Ed32f1D6950Bfc3458F0"><strong>  Link to the deployed UmbrellaDAO smart contract on Polygonscan» </strong></a>
-    <a href="https://polygonscan.com/address/0x6910CE71e784bE5B35183B2ECf2419dC6033d9E4"><strong>  Link to the deployed Token Governor Umbrella smart contract on Polygonscan with more 2+ transaction» </strong></a>
+    <h4><a href="https://polygonscan.com/address/0xC713d459f81C7C5fcB67Ed32f1D6950Bfc3458F0"><strong>  Link to the deployed UmbrellaDAO smart contract on Polygonscan» </strong></a></h4>
+    <h4><a href="https://polygonscan.com/address/0x6910CE71e784bE5B35183B2ECf2419dC6033d9E4"><strong>  Link to the deployed Token Governor Umbrella smart contract on Polygonscan with more 2+ transaction» </strong></a><h4>
     <h4>
     <a href="https://twitter.com/pinajmr/status/1579093189847572480"><strong>  Link to the what we’re building #onPolygon @0xPolygonDevs on twitter for Jose Pina » </strong></a></h4>
     <h4><a href="https://twitter.com/carlosjmelgar/status/1579095193697267714"><strong>  Link to the what we’re building #onPolygon @0xPolygonDevs on twitter for Carlos Melgar » </strong></a>
@@ -65,7 +65,11 @@ Create an umbrella organization that vets teams, quantifiable impact/ progress, 
 
 ### Built with
 
-This project uses POKT Network, Polygon, 
+This project uses POCKET Network and Polygon.
+
+We use that we believe in decentralization, there is not much effort to convince us to use it.
+
+Polygon, without a doubt the most used second layer network, where our users interested in this project, is the one they use the most for their interactions.
 
 Many disenfranchised developers and social entrepreneurs throughout LatAm are unable to access grant funding to support their public goods projects due to obstacles relating to geographic marginalization and socio-economic backgrounds. By creating UmbrellaDAO, we are enabling them to create public goods where they are most needed. The UmbrellaDAO allows disadvantaged builders to apply for grants and distributes funds based on milestones. 
 
