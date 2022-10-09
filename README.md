@@ -11,8 +11,12 @@
         Providing disenfranchised builders and social entrepreneurs access to web3 grant funding for public goods.
     <br/>
     <a href="https://github.com/pinajmr/UmbrellaDAO"><strong> Explore the docs » </strong></a>
-    <a href=""><strong> Contract deployed in Polygon Mainnet» </strong></a>
-    </p>
+    <a href="https://polygonscan.com/address/0xC713d459f81C7C5fcB67Ed32f1D6950Bfc3458F0"><strong>  Link to the deployed UmbrellaDAO smart contract on Polygonscan» </strong></a>
+    <a href="https://polygonscan.com/address/0x6910CE71e784bE5B35183B2ECf2419dC6033d9E4"><strong>  Link to the deployed Token Governor Umbrella smart contract on Polygonscan with more 2+ transaction» </strong></a>
+    <h4>
+    <a href="https://twitter.com/pinajmr/status/1579093189847572480"><strong>  Link to the what we’re building #onPolygon @0xPolygonDevs on twitter for Jose Pina » </strong></a></h4>
+    <h4><a href="https://twitter.com/carlosjmelgar/status/1579095193697267714"><strong>  Link to the what we’re building #onPolygon @0xPolygonDevs on twitter for Carlos Melgar » </strong></a>
+    </p></h4>
 </div> 
 
 <details>

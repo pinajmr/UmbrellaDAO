@@ -44,6 +44,11 @@ const config: HardhatUserConfig = {
     token: 'MATIC',
     gasPriceApi:"https://api.polygonscan.com/api?module=proxy&action=eth_gasPrice"
   },
+  etherscan: {
+    apiKey: {
+      polygon: 'K5SZYD6X7HJFFQTUKGJR55Y2AZMYF8EYHW'
+    }
+  },
 }
 
 export default config

@@ -11,10 +11,8 @@ async function main() {
 
   await umbrella.deployed();
 
-  
-
-
   console.log(`Smart contract deployed to ${umbrella.address}`);
+
 }
 
 main().catch((error) => {
